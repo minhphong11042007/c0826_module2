@@ -2,7 +2,7 @@ package ss1_java_overview;
 
 import java.util.Scanner;
 
-public class ass_numbers_to_words_converter_application {
+public class NumbersToWordsConverterApplication {
     public static String readNumberUnder20(int number) {
         switch (number) {
             case 0:

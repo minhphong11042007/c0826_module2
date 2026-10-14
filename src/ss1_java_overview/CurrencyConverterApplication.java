@@ -2,7 +2,7 @@ package ss1_java_overview;
 
 import java.util.Scanner;
 
-public class ass_currency_converter_application {
+public class CurrencyConverterApplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
