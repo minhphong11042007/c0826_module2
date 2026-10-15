@@ -1,4 +1,4 @@
-package ss1_java_overview;
+package ss1_java_overview.assignments;
 
 public class p_variable_declaration_and_usage {
     public static void main(String[] args) {

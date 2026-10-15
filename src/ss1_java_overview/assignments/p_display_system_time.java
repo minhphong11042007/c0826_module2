@@ -1,4 +1,4 @@
-package ss1_java_overview;
+package ss1_java_overview.assignments;
 
 import java.util.Date;
 
