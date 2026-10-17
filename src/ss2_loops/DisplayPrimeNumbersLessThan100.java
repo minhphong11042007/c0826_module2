@@ -1,4 +1,4 @@
-package ss2;
+package ss2_loops;
 
 public class DisplayPrimeNumbersLessThan100 {
     public static boolean isPrime(int n) {

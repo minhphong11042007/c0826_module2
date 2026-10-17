@@ -1,4 +1,4 @@
-package ss2.lessons;
+package ss2_loops.lessons;
 import java.util.Arrays;
 
 public class Demo {

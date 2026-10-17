@@ -1,4 +1,4 @@
-package ss2.assignments;
+package ss2_loops.assignments;
 
 import java.util.Scanner;
 

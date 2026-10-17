@@ -1,4 +1,4 @@
-package ss2;
+package ss2_loops;
 
 public class DisplayTheFirst20PrimeNumbers {
 

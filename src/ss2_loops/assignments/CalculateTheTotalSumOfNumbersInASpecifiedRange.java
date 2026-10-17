@@ -1,4 +1,4 @@
-package ss2.assignments;
+package ss2_loops.assignments;
 
 public class CalculateTheTotalSumOfNumbersInASpecifiedRange {
 }
