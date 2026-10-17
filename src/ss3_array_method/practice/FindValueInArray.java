@@ -1,4 +1,4 @@
-package ss2_array.practice;
+package ss3_array_method.practice;
 import java.util.Scanner;
 
 public class FindValueInArray {

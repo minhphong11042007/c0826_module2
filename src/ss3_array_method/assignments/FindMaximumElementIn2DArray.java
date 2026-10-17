@@ -1,6 +1,5 @@
-package ss2_array.assignments;
+package ss3_array_method.assignments;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FindMaximumElementIn2DArray {
