@@ -1,4 +1,4 @@
-package ss5_static_access_modifier.project;
+package ss5_static_access_modifier.project_students;
 
 public class Student {
 
